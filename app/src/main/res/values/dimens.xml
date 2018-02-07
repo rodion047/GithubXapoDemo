@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main activity -->
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+
+    <!-- Hub list -->
+    <dimen name="hub_list_item_profile_image_size">50dp</dimen>
+
+    <!-- Hub details activity -->
+    <dimen name="hub_details_profile_image_size">200dp</dimen>
+</resources>
